@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596653883745",
+    "project_id": "file-excel-9c0df",
+    "storage_bucket": "file-excel-9c0df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596653883745:android:ae8929d441af1066e70520",
+        "android_client_info": {
+          "package_name": "com.example.excelfile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXtd9IYHKin_jRdvbzJGtfkkHqQxwUTR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
